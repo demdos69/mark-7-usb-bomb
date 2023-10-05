@@ -10,9 +10,12 @@
 #AutoIt3Wrapper_Res_LegalCopyright=NOne
 #AutoIt3Wrapper_Res_Language=1033
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
-$USBdriveLetter = "E:"
+$USBdriveLetter = "D:"
+$i = 12
+#include <MsgBoxConstants.au3>
 while 1
 	ShellExecute($USBdriveLetter&"\mark7\1.jpg")
+	$i = $i * 72
 	ShellExecute($USBdriveLetter&"\mark7\2.jpg")
 	ShellExecute($USBdriveLetter&"\mark7\3.jpg")
 	ShellExecute($USBdriveLetter&"\mark7\4.jpg")
@@ -56,4 +59,14 @@ while 1
 	ShellExecute($USBdriveLetter&"\mark7\42.jpg")
 	ShellExecute($USBdriveLetter&"\mark7\43.jpg")
 	ShellExecute($USBdriveLetter&"\mark7\44.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\45.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\46.webp")
+	ShellExecute($USBdriveLetter&"\mark7\47.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\48.webp")
+	ShellExecute($USBdriveLetter&"\mark7\49.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\50.webp")
+	ShellExecute($USBdriveLetter&"\mark7\51.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\52.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\53.png")
+	MsgBox($MB_SYSTEMMODAL,"DEEZ NUTS",$i,1)
 	WEnd
