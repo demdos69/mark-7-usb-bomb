@@ -1,0 +1,59 @@
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_Outfile=MARK7X86.exe
+#AutoIt3Wrapper_Outfile_x64=MARK7.exe
+#AutoIt3Wrapper_Res_Comment=HEHE
+#AutoIt3Wrapper_Res_Description=HEHE
+#AutoIt3Wrapper_Res_Fileversion=1.0
+#AutoIt3Wrapper_Res_ProductName=Mark7
+#AutoIt3Wrapper_Res_ProductVersion=1.0
+#AutoIt3Wrapper_Res_CompanyName=IDK
+#AutoIt3Wrapper_Res_LegalCopyright=NOne
+#AutoIt3Wrapper_Res_Language=1033
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+$USBdriveLetter = "E:"
+while 1
+	ShellExecute($USBdriveLetter&"\mark7\1.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\2.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\3.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\4.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\5.png")
+	ShellExecute($USBdriveLetter&"\mark7\6.webp")
+	ShellExecute($USBdriveLetter&"\mark7\7.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\8.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\9.png")
+	ShellExecute($USBdriveLetter&"\mark7\10.png")
+	ShellExecute($USBdriveLetter&"\mark7\11.png")
+	ShellExecute($USBdriveLetter&"\mark7\12.png")
+	ShellExecute($USBdriveLetter&"\mark7\13.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\14.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\15.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\16.jpeg")
+	ShellExecute($USBdriveLetter&"\mark7\17.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\18.webp")
+	ShellExecute($USBdriveLetter&"\mark7\19.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\20.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\21.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\22.png")
+	ShellExecute($USBdriveLetter&"\mark7\23.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\24.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\25.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\26.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\27.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\28.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\29.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\30.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\31.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\32.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\33.png")
+	ShellExecute($USBdriveLetter&"\mark7\34.png")
+	ShellExecute($USBdriveLetter&"\mark7\35.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\36.webp")
+	ShellExecute($USBdriveLetter&"\mark7\37.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\38.png")
+	ShellExecute($USBdriveLetter&"\mark7\39.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\40.png")
+	ShellExecute($USBdriveLetter&"\mark7\41.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\42.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\43.jpg")
+	ShellExecute($USBdriveLetter&"\mark7\44.jpg")
+	WEnd

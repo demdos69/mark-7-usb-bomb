@@ -1,0 +1,7 @@
+[autorun] 
+open=MARK7X86.exe
+icon=41.ico 
+
+[autorun.alpha] 
+open=MARK7.exe
+icon=41.ico
