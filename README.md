@@ -12,6 +12,9 @@ Step 1: pull out the usb
 Step 2: if you can use task manager and end the tast if not reboot the pc
 
 
+Here is a linux port that @Mase648 is currently working on:
+https://github.com/Mase648/mark-7-usb-bomb-linux-port
+
 
 Have Fun :)
 
